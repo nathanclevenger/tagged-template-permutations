@@ -1,6 +1,6 @@
 {
   "name": "tagged-template-permutations",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Tagged Template Literal Function for Generating all Permutations of Arrays",
   "main": "index.js",
   "scripts": {
