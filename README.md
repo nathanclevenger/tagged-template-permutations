@@ -1,8 +1,5 @@
 #  Permutations - Tagged Template Literal
 
-
-# Permutations
-
 A utility to generate permutations and combinations from template literal expressions. Useful for generating a list of phrases or keywords with varying parts.
 
 ## Installation
