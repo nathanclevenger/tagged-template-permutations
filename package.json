@@ -1,0 +1,31 @@
+{
+  "name": "tagged-template-permutations",
+  "version": "0.1.0",
+  "description": "Tagged Template Literal Function for Generating all Permutations of Arrays",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanclevenger/tagged-template-permutations.git"
+  },
+  "keywords": [
+    "tagged",
+    "template",
+    "literal",
+    "permutations",
+    "array"
+  ],
+  "author": "Nathan Clevenger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathanclevenger/tagged-template-permutations/issues"
+  },
+  "homepage": "https://github.com/nathanclevenger/tagged-template-permutations#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vitest": "^0.34.6"
+  }
+}
